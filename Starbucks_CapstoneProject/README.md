@@ -12,24 +12,7 @@ drinks in the stores.
 ## Configuration
 
 The project was implemented using Jupyter Notebooks, Python and
-libraries used for data analysis such as Pandas and Numpy. A
-simple way to recreate the development environment is with
-[Docker](https://docs.docker.com/), following these steps.
-
-1. Install docker and docker-compose in your computer.
-
-2. Clone the [config-mgmt](https://github.com/aproano2/config-mgmt) repository.
-
-3. Go to the `config-mgmt/docker/docker-anaconda3` directory.
-
-4. Run `docker-compose up`.
-
-5. Visit [localhost:8888](http://localhost:8888) in a web browser to
-access Jupyter Notebooks.
-
-6. Visit [localhost:5000](http://localhost:5000) in a web browser to
-access nbviewer.
-
+libraries used for data analysis such as Pandas and Numpy. 
 
 ## Methodology
 
