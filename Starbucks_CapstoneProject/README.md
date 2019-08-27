@@ -47,7 +47,7 @@ To guide the project, the following questions were considered:
 
 ### 2. Prepare Data
 
-In the [helper.py](https://github.com/aproano2/starbucks/blob/master/helper.py)
+In the [helper.py](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/blob/master/Starbucks_CapstoneProject/helper.py)
 file, the `clean_portfolio`, `clean_profile` and `clean_transcript` functions are
 provided. They implement the following functionality:
 
