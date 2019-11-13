@@ -36,7 +36,7 @@ customers.
 
 ## Datasets
 
-The following data files have been provided and included in the project's [repo](https://github.com/aproano2/starbucks)
+The following data files have been provided and included in the project's [repo](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Starbucks_CapstoneProject)
 
 - `portfolio.json` contains the details of each offer: duration, reward, type, etc
 - `profile.json` contains demographic information of customer
