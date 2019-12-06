@@ -8,9 +8,9 @@
 3. [Identify Customer Segment](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Identify_customer_segments): Apply unsupervised learning techniques to identify clusters of the population that are most likely to be purchasers of products for a mailout campaign.
 
 ## Projects completed for the Udacity Data Scientists Nanodegree Term 2
-4. [Write a Data Science Blog Post](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Stack_overflow_2017_survey_analysis): Analyze Stack overflow data from 2017 to draw some results for questions "How active are developers on Stack Overflow?"
-Is the developer’s salary related to their activity on Stack Overflow?"
-Is the status of the user account related to user behavior? Can it be further utilized?". Accompanying blog post can be found [here](https://medium.com/@mohancrskls/are-developers-salaries-influenced-by-their-activity-on-stack-overflow-8dc099b2acd0)
+4. [Write a Data Science Blog Post](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Stack_overflow_2017_survey_analysis): Analyze Stack overflow data from 2017 to draw some results for questions such as "How active are developers on Stack Overflow?"
+"Is the developer’s salary related to their activity on Stack Overflow?"
+"Is the status of the user account related to user behavior? Can it be further utilized?". Accompanying blog post can be found [here](https://medium.com/@mohancrskls/are-developers-salaries-influenced-by-their-activity-on-stack-overflow-8dc099b2acd0)
 
 5. [Build Pipelines to Classify Messages with Figure Eight](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Disaster_response_pipeline): Build ETL and ML pipelines to classify messages sent during disasters. 
 
