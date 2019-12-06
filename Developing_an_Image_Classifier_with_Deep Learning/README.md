@@ -8,7 +8,7 @@ Part 1 of the project involves implementing an image classifier that is trained 
 Part 2 involves converting the notebook into a python application that can be run from the command-line and can be used for any images.
 
 ## Data
-Download the image dataset [here](https://drive.google.com/drive/folders/1rXXhFedu6C57bWRGs1xOx8-IP2HRZF6V?usp=sharing) as folder named "flowers" or as per your convenience. 
+Download the image dataset [here](https://drive.google.com/drive/folders/1rXXhFedu6C57bWRGs1xOx8-IP2HRZF6V?usp=sharing),as folder named "flowers" or as per your convenience. 
 
 ## How To Run It
 Part 1: Run Image Classifier Project.ipynb
