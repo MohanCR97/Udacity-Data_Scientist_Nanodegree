@@ -28,6 +28,7 @@ Due to agreements with Bertelsmann, the datasets cannot be shared or used for us
 10. Analyze the cluster distributions of the general population and the firm's customers. Identify clusters that are overrepresented or underrepresented in the customer dataset compared to the general population.
 11. Identify what kinds of people are typified by these overrepresented or underrepresented clusters. For each cluster, identify which principal components have the highest means and isolate them. Using the interpretations of the principal components from step 7, analyze what demographics attributes the top principal components are capturing. Use the information to deduce the demographic attributes of the overrepresented and underrepresented clusters.
 
+<<<<<<< HEAD
 ## Summary of Results
 The mail-order company is extremely popular with individuals who:
  - have high-income
@@ -92,6 +93,9 @@ This mail-order company is indifferent to this group of individuals who:
  - less family-minded, socially-minded and cultural-minded
  - less religious and dreamful
  - more rational, dominant-minded and critical-minded
+=======
+Results are published in ipynb files
+>>>>>>> 6e447bc2fa05ff18304789d890afbe3c8b157802
 
 ## How To Run It
 Run identify_customer_segments.ipynb

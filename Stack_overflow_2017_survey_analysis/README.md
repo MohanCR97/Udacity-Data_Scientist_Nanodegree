@@ -29,7 +29,7 @@ The data is made up of two files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@mohancrskls/are-developers-salaries-influenced-by-their-activity-on-stack-overflow-8dc099b2acd0?postPublishedType=initial).
+The main findings of the code can be found at the blog post available [here](https://medium.com/@mohancrskls/are-developers-salaries-influenced-by-their-activity-on-stack-overflow-8dc099b2acd0?postPublishedType=initial).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
