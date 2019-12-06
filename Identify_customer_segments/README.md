@@ -28,70 +28,7 @@ Due to agreements with Bertelsmann, the datasets cannot be shared or used for us
 10. Analyze the cluster distributions of the general population and the firm's customers. Identify clusters that are overrepresented or underrepresented in the customer dataset compared to the general population.
 11. Identify what kinds of people are typified by these overrepresented or underrepresented clusters. For each cluster, identify which principal components have the highest means and isolate them. Using the interpretations of the principal components from step 7, analyze what demographics attributes the top principal components are capturing. Use the information to deduce the demographic attributes of the overrepresented and underrepresented clusters.
 
-## Summary of Results
-The mail-order company is extremely popular with individuals who:
- - have high-income
- - have high purchasing power
- - are married
- - live in more desirable neighburhoods
- - have an affinity for avant garde movement
- - supports environmental sustainability movements
- - Internet-savvy
-
-The mail-order company is less popular with these groups (A to G) of individuals:
-
-  Group A:
-  - elderly
-  - prefers shopping at brick and mortar stores as opposed to online shopping
-  - more financially inconspicuous
-  - more religious, rational, dutiful, traditional-minded and cultural-minded
-
-  Group B:
-  - low-income home renters
-  - less interested financially
-  - live in households with larger family sizes
-
-  Group C:
-  - low-income couples with no children
-  - more materialistic and health conscious
-  - more risk-averse with their insurance purchases
-  - live in buildings that are more densely occupied and contain more households with larger family sizes
-
-  Group D:
-  - are financially inconspicuous
-  - are foreign born
-  - live in less desirable neighbourhoods
-  - prioritize low cost when purchasing energy
-  - more likely to be materialistic, rational and traditional-minded
-
-  Group E:
-  - middle class individuals who live in rural areas
-  - work as farmers or in occupations that support the farming community
-  - high purchasing power in the area they live in
-  - reside in areas that are located in what was formerly known as East Germany
-
-  Group F:
-  - middleclass family with young or teenage children as well as single-parents and couples without children
-  - live in multi-generational or multi-person household
-
-  Group G:
-  - demanding shoppers
-  - consume a lot of traditional (not online) advertisments or no advertisements at all
-  - low-income earners who have little aspirations of moving up the income ladder, or are financially stable and own homes
-  - financially prepared and like to invest
-  - like going on vacation for cultural sightseeing and/or participating in package tours
-  - less likely to travel within their home country
-  - recent immigrants.
-  - live in more desirable neighbourhoods
-
-This mail-order company is indifferent to this group of individuals who:
- - are young unmarried males
- - have high-income
- - prefers the use of green energy
- - enjoys shopping for fun, entertainment and satisfaction
- - less family-minded, socially-minded and cultural-minded
- - less religious and dreamful
- - more rational, dominant-minded and critical-minded
+Results are published in ipynb files
 
 ## How To Run It
 Run identify_customer_segments.ipynb
