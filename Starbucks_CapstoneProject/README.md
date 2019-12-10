@@ -60,16 +60,16 @@ interactions between the customers and the offers provided.
 
 ### 4. Recommendation Engine
 
-We used a knowledge based recommendation engine in this project. We
+I used a knowledge based recommendation engine in this project and
 provided one that selects the most popular offers without considering
 demographics, first. This system is a good start for customers that do
 not provide any demographic data in the app.
 
-For the rest of costumers, we introduced filters that help the system
+For the rest of costumers, i introduced filters that help the system
 make recommendations based on the demographic data provided by the
 customers.
 
-We evaluated the recommendation systems by using visualizations from
+I evaluated the recommendation systems by using visualizations from
 the data.
 
 ### 5. Blog Website
