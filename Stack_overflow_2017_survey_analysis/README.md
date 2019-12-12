@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interested in using Stack Overflow data from 2017 to better understand:
 
 1. How active are developers on Stack Overflow?
 2. Is the developer’s salary related to their activity on Stack Overflow?
