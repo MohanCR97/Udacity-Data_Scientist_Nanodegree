@@ -1,7 +1,7 @@
 # Data_Scientist_Nanodegree
 
 ## Projects completed for the Udacity Data Scientists Nanodegree Term 1
-1. [Finding Donors](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Finding_Donors_for_CharityML): Build an algorithm that best identifies potential donors.
+1. [Finding Donors](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Finding_Donors_for_CharityML): Built an algorithm that best identifies potential donors.
 
 2. [Image Classifier](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Developing_an_Image_Classifier_with_Deep%20Learning): Implement an image classifier with PyTorch. 
 
