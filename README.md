@@ -17,8 +17,3 @@
 6. [Design a Recommendation Engine with IBM](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Recommendations_with_IBM): Implement recommendation techniques using data from the IBM Watson Studio platform.
 
 7. [Data Science Capstone Project](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Starbucks_CapstoneProject). Explore data from Starbucks Rewards Mobile App and implement a promotional strategy with uplift models. Accompanying blog post can be found [here](https://mohancr97.github.io/Starbucks_CapstoneProject/)
-
-## Portfolio Exercises
-These are optional, ungraded exercises for the course
-
-[Starbucks Portfolio Exercise](https://github.com/MohanCR97/Udacity-Data_Scientist_Nanodegree/tree/master/Starbucks_CapstoneProject): Implement uplift models to identify which customers we should send promotions to entice them to purchase a product. Accompanying blog post can be found [here](https://mohancr97.github.io/Starbucks_CapstoneProject/)
